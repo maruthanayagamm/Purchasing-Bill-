@@ -13,13 +13,4 @@ A **simple yet efficient Purchasing Bill System** built using **HTML, CSS, and J
 - **Frontend**: HTML, CSS (Bootstrap for styling)  
 - **Logic & Functionality**: JavaScript (Vanilla JS, ES6)  
 
-## 🚀 Live Demo
-🔗 [View Demo](https://your-live-demo-link.com)  
 
-## 📸 Screenshots
-![Purchasing Bill System UI](https://your-screenshot-url.com/image.png)
-
-## 🔧 How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/purchasing-bill.git
